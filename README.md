@@ -1,4 +1,4 @@
- organización y explicación de los # Entornos de Desarrollo
+# Entornos de Desarrollo
 
 <p align="left">
   <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -31,4 +31,4 @@ A lo largo del curso trabajaremos los siguientes conceptos y herramientas:
 <p align="center">
   <strong>Aprender, practicar y mejorar.</strong><br>
   <em>Desarrollando conocimientos paso a paso.</em>
-</p>proyectos.
+</p>
